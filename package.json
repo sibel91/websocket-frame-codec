@@ -1,0 +1,17 @@
+{
+  "name": "websocket-frame-codec",
+  "version": "0.1.0",
+  "description": "Converts RFC 6455 WebSocket frames to and from bytes, handling masks and fragments.",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": "./src/index.js",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "dependencies": {}
+}
